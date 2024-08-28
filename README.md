@@ -3,7 +3,7 @@
 <img src="images/pc3.PNG" width="400">
 
 # Installation
-    1. git clone https://https://github.com/machine1337/clickjack
+    1. git clone https://github.com/R4GN4R0K-SEC/clickjack
     2. cd clickjack && chmod +x clickjack.sh
     
 # Usage
@@ -18,8 +18,7 @@
 # Note
     1. Make sure poc.html is placed in the same folder with clickjack.sh file.
     
-#  Follow Me On:
-    
+###  CODER  
   1. https://www.facebook.com/pakhack01 
   2. https://twitter.com/whoami4041
   3. https://instagram.com/invisibleclay100 
